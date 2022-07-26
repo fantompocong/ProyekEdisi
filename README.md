@@ -1,4 +1,4 @@
-# ProyekEdisi - "Mencari Kabar"
+# Proyek Edisi - "Mencari Kabar"
 a collaborative project by PROYEK EDISI in 2022
 -
 PROYEK EDISI is a young artists' initiative based in Yogyakarta. This group focuses on the study and practice of performance art. Documentations of the process and outputs of the study are distributed through social media.
